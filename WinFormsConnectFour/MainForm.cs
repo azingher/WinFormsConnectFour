@@ -7,7 +7,6 @@ namespace WinFormsConnectFour
     public class MainForm : Form
     {
         private readonly Game game;
-        private Label label1;
         private const int CellSize = 80;
 
         public MainForm()
